@@ -19,8 +19,8 @@ email: steffiolesi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am Steffi Muhanji, a graduate student at the Thayer School of Engineering at Dartmouth. I am studying energy systems engineering with a research focus in renewable energy integration and demand side management. I hope to work with on electrification in developing countries maybe start a company that aims to bring electricity to rural communities. I would like to use this space to share my knowledge about the energy industry and hopefully start a dialog about some of the social issues surrounding electrification in developing countries.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://steffiolesi.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://SteffiMuhanji@github.io" # the base hostname & protocol for your site
+twitter_username: Steffi_Muhanji
 github_username:  SteffiMuhanji
 linkedin_username: Steffi_Muhanji
 
